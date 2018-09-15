@@ -9,6 +9,13 @@ Meal Advisor is a project app designed to solve the problems of everyone who nee
 
 The purpose of this project is to help everyone that have troubles with cooking. I thought of this after hearing Moms saying: “What will I cook today?” And this usually becomes a problem especially when one does not have a wide range of ingredients at home, resulting them to be unable to cook many of the dishes. As a result of it all, we came up with the Meal Advisor app.
 
+### Team -4
+1-	Mikail Alici
+2-	Syed Jafri
+3-	Husnbonu Avghonova
+4-	Ishmaeyl Dalmau 
+
+
 ![Meal-Advisor Logo](https://github.com/mikailalici/Meal-Advisor/blob/master/4-logo.jpg)
 
 ## First Week
