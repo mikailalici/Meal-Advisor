@@ -26,3 +26,15 @@ We created an account on the MIT APP inventer website.  http://appinventor.mit.e
 ![](https://github.com/mikailalici/Meal-Advisor/blob/master/2%20name.jpg)
 
 ![](https://github.com/mikailalici/Meal-Advisor/blob/master/3%20MIT.jpg)
+
+
+## Getting Started with MIT App Inventor 2
+
+App Inventor is a cloud-based tool, which means you can build apps right in your web browser. 
+
+This website offers all the support you'll need to learn how to build your own apps. 
+
+Visit it at ai2.appinventor.mit.edu. You can get there by clicking the orange "Create Apps!" button from any page on this website.
+
+
+http://appinventor.mit.edu/explore/index-2.html
