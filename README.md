@@ -14,7 +14,7 @@ The purpose of this project is to help everyone that have troubles with cooking.
 2-	Syed Jafri
 3-	Husnbonu Avghonova
 4-	Ishmaeyl Dalmau 
-
+5-  Kliti Agolli
 
 ![Meal-Advisor Logo](https://github.com/mikailalici/Meal-Advisor/blob/master/4-logo.jpg)
 
