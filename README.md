@@ -11,7 +11,7 @@ The purpose of this project is to help everyone that have troubles with cooking.
 
 ### Team -4
 1-	Mikail Alici
-2-	Syed Jafri
+2-	Syed Jafri- App Desing, templates, how it will looks like. Color etc.
 3-	Husnbonu Avghonova
 4-	Ishmaeyl Dalmau 
 5-  Kliti Agolli
