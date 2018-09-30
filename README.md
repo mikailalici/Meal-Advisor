@@ -21,11 +21,14 @@ The purpose of this project is to help everyone that have troubles with cooking.
 ## First Week
 We created an account on the MIT APP inventer website.  http://appinventor.mit.edu/explore/get-started.html
 
-![](https://github.com/mikailalici/Meal-Advisor/blob/master/1%20log.jpg)
 
 ![](https://github.com/mikailalici/Meal-Advisor/blob/master/2%20name.jpg)
 
 ![](https://github.com/mikailalici/Meal-Advisor/blob/master/3%20MIT.jpg)
+
+## How To Create a New Project Video link:
+
+https://www.youtube.com/watch?v=W1ojJwN8whE&t=13s
 
 
 ## Getting Started with MIT App Inventor 2
