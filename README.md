@@ -31,6 +31,10 @@ We created an account on the MIT APP inventer website.  http://appinventor.mit.e
 https://www.youtube.com/watch?v=W1ojJwN8whE&t=13s
 
 
+![Meal-Advisor Logo](https://github.com/mikailalici/Meal-Advisor/blob/master/case.jpeg)
+
+
+
 ## Getting Started with MIT App Inventor 2
 
 App Inventor is a cloud-based tool, which means you can build apps right in your web browser. 
