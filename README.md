@@ -13,7 +13,7 @@ The purpose of this project is to help everyone that have troubles with cooking.
 1-	Mikail Alici - MIT App Inventer - APP Design 
 2-	Syed Jafri- App Desing, templates, how it will looks like. Color etc.
 3-	Husnbonu Avghonova
-4-	Ishmaeyl Dalmau 
+4-	Ishmaeyl Dalmau- Responsible for buttons design, logo, sound .
 5-  Kliti Agolli- buttons design, logo, sound.
 
 ![Meal-Advisor Logo](https://github.com/mikailalici/Meal-Advisor/blob/master/4-logo.jpg)
