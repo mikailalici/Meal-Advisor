@@ -27,8 +27,15 @@ We created an account on the MIT APP inventer website.  http://appinventor.mit.e
 ![](https://github.com/mikailalici/Meal-Advisor/blob/master/3%20MIT.jpg)
 
 ## How To Create a New Project Video link:
+First, we logged into MIT App Inventor and created a new project(s).
 
 https://www.youtube.com/watch?v=W1ojJwN8whE&t=13s
+
+
+## Final-Producing The First Screen
+We produced the first screen and learnt how to add images to a project.
+
+https://www.youtube.com/watch?v=ZUK_H6PA1R8&list=PLneO_AWZId610t8Q8tzBwJYzbUoUGEXpa&index=4
 
 
 ![Meal-Advisor Logo](https://github.com/mikailalici/Meal-Advisor/blob/master/case.jpeg)
