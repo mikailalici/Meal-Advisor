@@ -7,14 +7,14 @@ Have you ever faced the problem of lacking a recipe to prepare for your visitors
 
 Meal Advisor is a project app designed to solve the problems of everyone who need assistance in their kitchen. In only a few steps, you can easily decide on what to cook, and even learn and get assistance on how to do it!   
 
-The purpose of this project is to help everyone that have troubles with cooking. I thought of this after hearing Moms saying: “What will I cook today?” And this usually becomes a problem especially when one does not have a wide range of ingredients at home, resulting them to be unable to cook many of the dishes. As a result of it all, we came up with the Meal Advisor app.
+The purpose of this projectis to help everyone that have troubles with cooking. I thought of this after hearing Moms saying: “What will I cook today?” And this usually becomes a problem especially when one does not have a wide range of ingredients at home, resulting them to be unable to cook many of the dishes. As a result of it all, we came up with the Meal Advisor app.
 
 ### Team -4
-1-	Mikail Alici
+1-	Mikail Alici - MIT App Inventer - APP Design 
 2-	Syed Jafri- App Desing, templates, how it will looks like. Color etc.
-3-	Husnbonu Avghonova
-4-	Ishmaeyl Dalmau 
-5-  Kliti Agolli
+3-	Husnbonu Avghonova- Responsible for menus and steps of cooking.
+4-	Ishmaeyl Dalmau- Responsible for buttons design, logo, sound .
+5-  Kliti Agolli- buttons design, logo, sound.
 
 ![Meal-Advisor Logo](https://github.com/mikailalici/Meal-Advisor/blob/master/4-logo.jpg)
 
@@ -29,6 +29,10 @@ We created an account on the MIT APP inventer website.  http://appinventor.mit.e
 ## How To Create a New Project Video link:
 
 https://www.youtube.com/watch?v=W1ojJwN8whE&t=13s
+
+
+![Meal-Advisor Logo](https://github.com/mikailalici/Meal-Advisor/blob/master/case.jpeg)
+
 
 
 ## Getting Started with MIT App Inventor 2
