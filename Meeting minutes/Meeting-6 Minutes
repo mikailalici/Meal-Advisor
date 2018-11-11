@@ -20,8 +20,11 @@ Ishmaeyl Dalmau
 
 3. Summary
 
-A meeting was held online at 12:00 PM to 1:00 PM on Thursday October 18, 2018 to discuss the ongoing software engineering project. After 
-greeting, we just came up with the main objectives as mentioned in next meeting section-3, and We briefly talked about project. We mostly
-discussed some sort of issues facing in our peoject whether in design or coding.  We have fixed some user access issues for our two team
-members who now have no issue to access main repository to push and pull activities from their sides.
+We discusses about some errors in Meal Advisor part two or need some changes in app design layout.
+We also added end user layout to part two. Creating main logo and later added more options to make 
+it as start up screen page that enables users to navigates through each section and can select any
+option to get ready to use recipes. We are planning to have our first testing session next week for
+Meal advisor app whether by using Android Studio or other Android based testing application.
+
+
 
