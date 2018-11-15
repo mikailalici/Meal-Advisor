@@ -15,3 +15,20 @@
 
     <uses-permission
         android:name="android.permission.ACCESS_WIFI_STATE" />
+<uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="26" />
+
+    <application
+        android:theme="@ref/0x7f08003b"
+        android:label="AppInventor"
+        android:icon="@ref/0x7f02005f"
+        android:name="com.google.appinventor.components.runtime.multidex.MultiDexApplication"
+        android:debuggable="false">
+
+        <activity
+            android:name=".Screen1"
+            android:configChanges="0x4b0"
+            android:windowSoftInputMode="0x2">
+
+            <intent-filter>
